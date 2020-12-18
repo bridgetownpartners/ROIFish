@@ -1,0 +1,9 @@
+title: RollTesla.com
+baseurl: /
+  
+# Social Media
+google_analytics_tracking_id:
+
+markdown: kramdown
+  
+highlighter: rouge
